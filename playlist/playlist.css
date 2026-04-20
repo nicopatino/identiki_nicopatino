@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Chango&display=swap');
         body{
-            background-image: url(./imagenes/FondoDj.jpg);
+            background-image: url(../imagenes/FondoDj.jpg);
             background-size: cover;
             background-repeat: no-repeat;
         }

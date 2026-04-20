@@ -8,7 +8,7 @@ p{
 
 /*IMAGENES*/
 .FondoInicio{
-    background-image: url(./Trivia/ImagenesPokemon/fondo1.png);
+    background-image: url(../Trivia/ImagenesPokemon/fondo1.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -16,7 +16,7 @@ p{
     margin: 0;
 }
 .ExplicaciónJoy{
-    background-image: url(./Trivia/ImagenesPokemon/fondo2.png);
+    background-image: url(../Trivia/ImagenesPokemon/fondo2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -61,7 +61,7 @@ p{
     margin-bottom: 400px;
 }
 .LaboratorioOak{
-    background-image: url(./Trivia/ImagenesPokemon/fondo3.png);
+    background-image: url(../Trivia/ImagenesPokemon/fondo3.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -69,7 +69,7 @@ p{
     margin: 0;
 }
 .RecibimientoGyarados{
-    background-image: url(./Trivia/ImagenesPokemon/Gyarados\ shiny\ .png);
+    background-image: url(../Trivia/ImagenesPokemon/Gyarados\ shiny\ .png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -90,7 +90,7 @@ p{
     font-size: 30px
 }
 .Derrota{
-    background-image: url(./Trivia/ImagenesPokemon/Gyarados_derrotado.png);
+    background-image: url(../Trivia/ImagenesPokemon/Gyarados_derrotado.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -98,7 +98,7 @@ p{
     margin: 0;
 }
 .Batalla{
-    background-image: url(./Trivia/ImagenesPokemon/Lucha.png);
+    background-image: url(../Trivia/ImagenesPokemon/Lucha.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -106,7 +106,7 @@ p{
     margin: 0;
 }
 .Ganador{
-    background-image: url(./Trivia/ImagenesPokemon/charizard\ derrotado.png);
+    background-image: url(../Trivia/ImagenesPokemon/charizard\ derrotado.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -114,7 +114,7 @@ p{
     margin: 0;
 }
 .RegistroGyaradosPokedex{
-    background-image: url(./Trivia/ImagenesPokemon/Gyaradospokedex.png);
+    background-image: url(../Trivia/ImagenesPokemon/Gyaradospokedex.png);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;

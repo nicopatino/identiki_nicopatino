@@ -1,11 +1,4 @@
-body{
-    background-image: url(./ListaSagaStarWars/Imagenes/star-wars-logo_3840x2160_xtrafondos.com.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    margin: 0;
-}
+
 section{
     background-color: #685872de;
     width: 700px;
